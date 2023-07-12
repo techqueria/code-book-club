@@ -8,11 +8,36 @@ by Martin Kleppmann
 ## Table of Contents
 
 
-## Errata
+Part I: Foundations of Data Systems
+1. Reliable, Scalable, and Maintainable Applications
+2. Data Models and Query Languages
+3. Storage and Retrieval
+4. Encoding and Evolution  
 
+Part II: Distributed Data
+1. Replication
+2. Partitioning
+3. Transactions
+4. The Trouble with Distributed Systems
+5. Consistency and Consensus  
+
+Part III: Derived Data
+1. Batch Processing
+2. Stream Processing
+3. The Future of Data Systems  
+
+
+## About the Author
+[Martin Kleppmann](https://martin.kleppmann.com/)
+## Errata
+[Errata Link](https://www.oreilly.com/catalog/errata.csp?isbn=0636920032175)
 
 ## Resources
+- [Official Book Website](https://dataintensive.net/)
 
+
+## References
+- Book References Listed [Here](https://github.com/ept/ddia-references)
 
 ## Further Reading
 

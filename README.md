@@ -12,90 +12,49 @@ This is a repository for the Techqueria Code Book Club. We will be reading and d
  We will be using the [Techqueria Slack](https://techqueria.org/slack) to communicate. Please join the `#code-book-club` channel to participate.
 
 ## 💡How to Suggest a Book
-Please submit your suggestion using this [google form](https://docs.google.com/forms/d/e/1FAIpQLScj6eHYM9T6UY0jqJcWXglNQr9pwaD6j3cjgaYeAIIcs_EEag/formrestricted). Please include the title, author, and an amazon link to purchase the book. Upon finishing the current book, we will vote on the next book to read.
+If you have a tech related book that you've read or is in your queue, please submit your suggestion as a GH issue and PR. Upon finishing the current book, the members vote on the next book to read.
+
+## 🗳️How the Books are Chosen
+Using the list of community sourced suggestions the members will vote to choose the next reading.
+
 
 ## 📅Schedule
-Meetings are held via zoom <u>Monthly</u> on {dayOfTheWeek} at {time}pm PST to discuss the current book. 
+Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} at {time}pm PST/{time}pm EST to discuss the current book. 
 
 ## 💬Meeting Structure
-    - 1 hour meeting
-    - Opening Remarks
-    - Recap of last reading/meeting
-    - Open Discussion of current assigned readings
-        - Use questions from this repo to guide your thoughts as you read so we can discuss as a group during the meeting
-    - Networking and wind down
-    - Closing Remarks
+- 1 hour virtual meeting via Zoom
+- Meeting Notes in the book directory
+- Opening Remarks
+- Recap of last reading/meeting
+- Open Discussion of current assigned readings
+    - Use questions from this repo to guide your thoughts as you read so we can discuss as a group during the meeting
+- Networking and wind down
+- Closing Remarks
 
 ***
 # 📖Content
-## 🗓️Current
+## 🗓️Currently Reading
 
 <img src="https://m.media-amazon.com/images/P/1449373321.01._SCLZZZZZZZ_SX500_.jpg" alt="ddia-cover" width="200"/>
 
-### Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+### Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann  
+<em>DDIA explores the principles, techniques, and best practices for designing and building robust, scalable, and reliable data systems. The book focuses on the challenges associated with handling and processing large-scale data, as well as the various tools and technologies used in modern data-driven applications. The book is divided into three parts, each covering different aspects of designing data-intensive applications; Foundations of Data Systems, Distributed Data, and Derived Data.</em>
+
 - Purchase on [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
-- [DDIA Repo](/DDIA/README.md)
-- Estimated Start Date: 
-- Estimated End Date:
+- [DDIA Directory](/DDIA/README.md)
+- Estimated Start Date: August 1, 2023
+- Estimated End Date: October 31, 2023
 - Volume 1 of 1
 - Content Pages: 544
 - Original Edition Publish Date: March 16, 2017
 
 
-## 🔙Past
-- NULL
 
-## 📚Unordered List of Tentative Future Content
-
-- [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052) by Andrew Hunt and David Thomas
-    - Volume 1 of 1
-    - Pages: 320
-    - Original Edition Publish Date: October 30, 1999
-    - Current Edition Publish Date: September 20, 2019
-+ [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8) by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides
-    - Volume 1 of 1
-    - Pages: 00
-    - Original Edition Publish Date: Jan 1, 1900
-    - Current Edition Publish Date: Jan 1, 2023
-
-- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
-    - Volume 1 of 1
-    - Pages: 00
-    - Original Edition Publish Date: Jan 1, 1900
-    - Current Edition Publish Date: Jan 1, 2023
-
-+ [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
-    - Volume 1 of 1
-    - Pages: 00
-    - Original Edition Publish Date: Jan 1, 1900
-    - Current Edition Publish Date: Jan 1, 2023
-
-- [Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful-ebook/dp/B07B9F83WM) by Edmond Lau
-    - Volume 1 of 1
-    - Pages: 00
-    - Original Edition Publish Date: Jan 1, 1900
-    - Current Edition Publish Date: Jan 1, 2023
-
-+ [The Algorithm Design Manual](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1848000693) by Steven S. Skiena
-    - Volume 1 of 1
-    - Pages: 00
-    - Original Edition Publish Date: Jan 1, 1900
-    - Current Edition Publish Date: Jan 1, 2023
-
-- [Dependency Injection: Principles, Practices, and Patterns](https://www.amazon.com/Dependency-Injection-Principles-Practices-Patterns/dp/161729473X) by Steven van Deursen and Mark Seemann
-    - Volume 1 of 1
-    - Pages: 00
-    - Original Edition Publish Date: Jan 1, 1900
-    - Current Edition Publish Date: Jan 1, 2023
-
-+ [The Art of Unit Testing](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890) by Roy Osherove
-    - Volume 1 of 1
-    - Pages: 00
-    - Original Edition Publish Date: Jan 1, 1900
-    - Current Edition Publish Date: Jan 1, 2023
+## 🔙Past Readings
+- <em>Coming Soon!</em>
 
 
-## 💭Guided Relfections When Reading
+## 💭Guided Reflections When Reading
 
 As you read, consider the following questions to guide your thoughts.
 It is not required to answer these questions, but it is encouraged to help you think critically about the material.
@@ -137,9 +96,9 @@ Some questions may not be applicable to the current reading.
 - How do you see these concepts/ideas/practices evolving in the future? What are the potential ethical implications?
 
 ## 🔍Further Resources
-- NULL
-- NULL
-- NULL
+- <em>Coming Soon!</em>
+- <em>Coming Soon!</em>
+- <em>Coming Soon!</em>
 
 
 ## ⚖️Code of Conduct
