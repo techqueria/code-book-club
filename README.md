@@ -3,9 +3,9 @@
 This is a repository for the Techqueria Code Book Club. We will be reading and discussing books related to software engineering, computer science, and technology. The book club is open to all Techqueria members.
 
 <strong>🎯 Goals</strong>
-- 🚀Deepen technical knowledge through discussion and analysis of complex concepts in our readings
-- 🧠Enhance problem-solving skills and critical thinking through group discussion and peer-to-peer learning
-- 💪🏾Promote continued learning and career development for Latinx empowerment in tech by connect with passionate individuals in safe, supportive space for sharing ideas, asking questions, and building relationships
+- 🚀 Deepen technical knowledge through discussion and analysis of complex concepts in our readings
+- 🧠 Enhance problem-solving skills and critical thinking through group discussion and peer-to-peer learning
+- 💪🏾 Promote continued learning and career development for Latinx empowerment in tech by connect with passionate individuals in safe, supportive space for sharing ideas, asking questions, and building relationships
 
 
 ## 📩 How to Participate
