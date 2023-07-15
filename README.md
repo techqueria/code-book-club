@@ -9,7 +9,8 @@ This is a repository for the Techqueria Code Book Club. We will be reading and d
 
 
 ## 📩 How to Participate
- We will be using the [Techqueria Slack](https://techqueria.org/slack) to communicate. Please join the `#code-book-club` channel to participate.
+Submit your email here to be added to receive meeting details and a calendar invite. <br>
+We will be using the [Techqueria Slack](https://techqueria.org/slack) to communicate. Please join the `#code-book-club` channel to participate.
 
 ## 💡 How to Suggest a Book
 If you have a tech related book that you've read or is in your queue, please submit your suggestion as a GH issue using the [Book Submission Template](https://github.com/techqueria/code-book-club/issues/2). Upon finishing the current book, the members vote on the next book to read.
@@ -19,7 +20,7 @@ Using the list of community sourced suggestions the members will vote to choose 
 
 
 ## 📅 Schedule
-Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} at {time}pm PST/{time}pm EST to discuss the current book. 
+Meetings are held virtually via Zoom <u>Monthly</u> on the last Wednesday at {time}pm PST/{time}pm EST to discuss the current book. 
 
 ## 💬 Meeting Structure
 - 1 hour virtual meeting via Zoom
