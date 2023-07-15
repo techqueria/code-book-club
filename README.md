@@ -21,7 +21,7 @@ Using the list of community sourced suggestions the members will vote to choose 
 ## 📅 Schedule
 Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} at {time}pm PST/{time}pm EST to discuss the current book. 
 
-## 💬Meeting Structure
+## 💬 Meeting Structure
 - 1 hour virtual meeting via Zoom
 - Meeting Notes in the book directory
 - Opening Remarks
@@ -50,11 +50,11 @@ Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} a
 
 
 
-## 🔙Past Readings
+## 🔙 Past Readings
 - <em>Coming Soon!</em>
 
 
-## 💭Guided Reflections When Reading
+## 💭 Guided Reflections When Reading
 
 As you read, consider the following questions to guide your thoughts.
 It is not required to answer these questions, but it is encouraged to help you think critically about the material.
@@ -95,13 +95,13 @@ Some questions may not be applicable to the current reading.
 - Are there any ethical considerations related to the material?
 - How do you see these concepts/ideas/practices evolving in the future? What are the potential ethical implications?
 
-## 🔍Further Resources
+## 🔍 Further Resources
 - <em>Coming Soon!</em>
 - <em>Coming Soon!</em>
 - <em>Coming Soon!</em>
 
 
-## ⚖️Code of Conduct
+## ⚖️ Code of Conduct
 All participants are expected to adhere to the Techqueria [Code of Conduct](https://techqueria.org/code-of-conduct/).
 
 Remember to be *respectful* and kind to others. We are all here to learn and grow together.
