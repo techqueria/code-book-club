@@ -42,6 +42,7 @@ Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} a
 
 - Purchase on [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
 - [DDIA Directory](/DDIA/README.md)
+- Meeting Dates and Chapters Covered are availablec[here](https://github.com/techqueria/code-book-club/wiki/Meeting-Details)
 - Estimated Start Date: August 1, 2023
 - Estimated End Date: October 31, 2023
 - Volume 1 of 1
