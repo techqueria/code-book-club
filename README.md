@@ -40,7 +40,7 @@ Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} a
 ### Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann  
 <em>DDIA explores the principles, techniques, and best practices for designing and building robust, scalable, and reliable data systems. The book focuses on the challenges associated with handling and processing large-scale data, as well as the various tools and technologies used in modern data-driven applications. The book is divided into three parts, each covering different aspects of designing data-intensive applications; Foundations of Data Systems, Distributed Data, and Derived Data.</em>
 
-- Purchase on [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321)
+- Purchase on [Amazon](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) or download [here](https://www.scylladb.com/wp-content/uploads/ScyllaDB-Designing-Data-Intensive-Applications.pdf)
 - [DDIA Directory](/DDIA/README.md)
 - Estimated Start Date: August 1, 2023
 - Estimated End Date: October 31, 2023
