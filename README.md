@@ -12,7 +12,7 @@ This is a repository for the Techqueria Code Book Club. We will be reading and d
  We will be using the [Techqueria Slack](https://techqueria.org/slack) to communicate. Please join the `#code-book-club` channel to participate.
 
 ## 💡 How to Suggest a Book
-If you have a tech related book that you've read or is in your queue, please submit your suggestion as a GH issue and PR. Upon finishing the current book, the members vote on the next book to read.
+If you have a tech related book that you've read or is in your queue, please submit your suggestion as a GH issue using the [Book Submission Template](https://github.com/techqueria/code-book-club/issues/2). Upon finishing the current book, the members vote on the next book to read.
 
 ## 🗳️ How the Books are Chosen
 Using the list of community sourced suggestions the members will vote to choose the next reading.
