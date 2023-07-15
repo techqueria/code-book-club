@@ -1,24 +1,24 @@
 # 📚🎉 Techqueria Code Book Club 🤝🏾💻
-## 🌐About
+## 🌐 About
 This is a repository for the Techqueria Code Book Club. We will be reading and discussing books related to software engineering, computer science, and technology. The book club is open to all Techqueria members.
 
-<strong>🎯Goals</strong>
+<strong>🎯 Goals</strong>
 - 🚀Deepen technical knowledge through discussion and analysis of complex concepts in our readings
 - 🧠Enhance problem-solving skills and critical thinking through group discussion and peer-to-peer learning
 - 💪🏾Promote continued learning and career development for Latinx empowerment in tech by connect with passionate individuals in safe, supportive space for sharing ideas, asking questions, and building relationships
 
 
-## 📩How to Participate
+## 📩 How to Participate
  We will be using the [Techqueria Slack](https://techqueria.org/slack) to communicate. Please join the `#code-book-club` channel to participate.
 
-## 💡How to Suggest a Book
+## 💡 How to Suggest a Book
 If you have a tech related book that you've read or is in your queue, please submit your suggestion as a GH issue and PR. Upon finishing the current book, the members vote on the next book to read.
 
-## 🗳️How the Books are Chosen
+## 🗳️ How the Books are Chosen
 Using the list of community sourced suggestions the members will vote to choose the next reading.
 
 
-## 📅Schedule
+## 📅 Schedule
 Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} at {time}pm PST/{time}pm EST to discuss the current book. 
 
 ## 💬Meeting Structure
@@ -32,8 +32,8 @@ Meetings are held virtually via Zoom <u>Monthly</u> on the last {dayOfTheWeek} a
 - Closing Remarks
 
 ***
-# 📖Content
-## 🗓️Currently Reading
+# 📖 Content
+## 🗓️ Currently Reading
 
 <img src="https://m.media-amazon.com/images/P/1449373321.01._SCLZZZZZZZ_SX500_.jpg" alt="ddia-cover" width="200"/>
 
