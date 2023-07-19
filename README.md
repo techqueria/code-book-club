@@ -20,7 +20,7 @@ Using the list of community sourced suggestions the members will vote to choose 
 
 
 ## 📅 Schedule
-Meetings are held virtually via Zoom <u>Monthly</u> on the last Wednesday at {time}pm PST/{time}pm EST to discuss the current book. 
+Meetings are held virtually via Zoom <u>Monthly</u> on the last Wednesday at 2pm-3pm PT / 5pm-6pm ET to discuss the current book. 
 
 ## 💬 Meeting Structure
 - 1 hour virtual meeting via Zoom
