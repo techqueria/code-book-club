@@ -80,18 +80,68 @@ Tips for reliable systems tolerant to human errors, as quoted in DDIA:
 - provide fully featured non-production sandbox environments where people can explore and experiment safely, using real data, without affecting real users
 - Test thoroughly at all levels, from unit tests to whole-system integration tests and manual tests
 - make it fast to roll back configuration changes, roll out new code gradually, and provide tools to recompute data
-- 
+- detailed and clear monitoring, such as performance metrics and error rates
 #### How Important Is Reliability?
+Business implications - "outages of ecommerce sites can have huge costs in terms of lost revenue and damage to reputation."
 ### Scalability
+Scalability is the term we use to describe a system’s ability to cope with increase load
 #### Describing Load
+Load Parameters may be requests per second to a web server, the ratio of reads to writes in a database, the number of simultaneously active users in a chat room, the hit rate on a cache, or something else
 #### Describing Performance
-#### Approaches for Coping with Load
-### Maintainability
-#### Operability: Making Life Easy for Operations
-#### Simplicity: Managing Complexity
-#### Evolvability: Making Change Easy
-### Summary
+**Throughput** is the number of records we can process per second, or the total time it takes to run a job on a dataset of a certain size.  
 
+Most important for an online system is the **response time**, being the time between a client sending a request and receiving a response. This can be affected by "a context switch to a background process, the loss of a network packet and TCP retransmission, a garbage collection pause, a page fault forcing a read from disk, mechanical vibrations in the server rack" etc.
+![Alt text](response-times.png)
+The median, 50th percentile, is abbreviated as p50 where half of users requests are served in less than this time and the other half are served in more than this time. e.g. if p50 is 200ms then half of your users are served in less than 200ms and the other half is served in more than 200ms. This is seen in the 95th and 99th percentiles.  
+Nevertheless, it is important to examine and address some of your outliers, but you must also consider the diminishing returns. i.e. optimizing to address p95 and p99 can have critical business effects, but p999 (99.9 percentile - e.g. 1 in 10,000) may have diminishing returns.  
+*"Amazon has also observed that a 100 ms increase in response time reduces
+sales by 1%"*
+
+![Alt text](slow-backend.png)
+#### Approaches for Coping with Load
+**scaling up** -  *vertical scaling*, moving to a more powerful machine. This is often simpler but more expensive.  
+**scaling out** - *horizontal scaling*, distributing the load across multiple smaller machines. Distributing load across multiple machines is also
+known as a *shared-nothing* architecture.
+**elastic systems** - a more complex way of scaling systems with highly unpredictable load that automatically add computing resources when they detect a load increase
+
+### Maintainability
+**Maintainable Software**
+- Operability: Ops should be able to keep system running smoothly
+- Simplicity: barrier to entry to codebase should be low, i.e. new engineers should be able to hit the ground running
+- Evolvability (modifiability, extensibility, plasticity): It should be easy for engineers to make changes to the codebase
+
+#### Operability: Making Life Easy for Operations
+**Ops Team Responsibility**  
+- health monitoring
+- performance and failure tracking and trouble shooting
+- Keeping software up to date including security patches
+- Examine effects of systems on each other
+- anticipate future problems
+- tools and practices for deployment and configuration management
+- maintenance tasks such as migrating platforms
+- maintaining security of the system
+- keep production environment stable
+- preserve organization knowledge about the system, e.g. documentation  
+- Providing good documentation
+- Self-healing where appropriate, but also giving administrators manual control over the system state when needed
+#### Simplicity: Managing Complexity
+simplicity yields maintainability  
+
+#### Evolvability: Making Change Easy
+"The ease with which you can modify a data system, and adapt it to changing requirements, is closely linked to its simplicity and its abstractions: simple and easy-tounderstand systems are usually easier to modify than complex ones. But since this is such an important idea, we will use a different word to refer to agility on a data system level: evolvability "
+### Summary
+Applications should meet:  
+
+**functional requirements:** what it should do, such as allowing data to be stored, retrieved, searched, and processed in various ways  
+**non-functional requirements:** general properties like security, reliability compliance, scalability, compatibility, and maintainability  
+  
+**Concerns in Most Software Systems**  
+- **Reliability:**  
+The system should continue to work correctly (performing the correct function at the desired level of performance) even in the face of adversity (hardware or software faults, and even human error).  
+- **Scalability:**  
+As the system grows (in data volume, traffic volume, or complexity), there should be reasonable ways of dealing with that growth.  
+- **Maintainability:**  
+Over time, many different people will work on the system (engineering and operations, both maintaining current behavior and adapting the system to new use cases), and they should all be able to work on it productively 
 ## 2. Data Models and Query Languages
 
 
