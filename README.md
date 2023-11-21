@@ -24,9 +24,8 @@ Meetings are held virtually via Zoom <u>Monthly</u> on the last Wednesday at 2pm
 
 ## 💬 Meeting Structure
 - 1 hour virtual meeting via Zoom
-- Meeting Notes in the book directory
+- We are using a Figma file to showcase the material with custom info graphics and to help guide discussions
 - Opening Remarks
-- Recap of last reading/meeting
 - Open Discussion of current assigned readings
     - Use questions from this repo to guide your thoughts as you read so we can discuss as a group during the meeting
 - Networking and wind down
@@ -98,8 +97,6 @@ Some questions may not be applicable to the current reading.
 - How do you see these concepts/ideas/practices evolving in the future? What are the potential ethical implications?
 
 ## 🔍 Further Resources
-- <em>Coming Soon!</em>
-- <em>Coming Soon!</em>
 - <em>Coming Soon!</em>
 
 
